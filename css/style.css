@@ -36,6 +36,6 @@ body {
 }
 
 last {
-  align: right
+  text-align-last: right
 }
 }
