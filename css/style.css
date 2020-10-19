@@ -24,3 +24,8 @@ body {
   width: 30%;
   display: inline-block
 }
+
+.small {
+  height: 100%;
+  width: 100%
+}
