@@ -22,7 +22,7 @@ body {
 /* Write all remaining styles here */
 .row {
   width: 40%;
-  display: inline-block;
+  display: align-items;
 }
 
 .small {
