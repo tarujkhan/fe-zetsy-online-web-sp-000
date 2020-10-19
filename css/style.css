@@ -36,5 +36,5 @@ body {
 }
 
 p.last {
-  text-align: right
+  float: right
 }
