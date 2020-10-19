@@ -35,6 +35,6 @@ body {
   height: 300%;
 }
 
-p#last {
+p.last {
   text-align: right
 }
