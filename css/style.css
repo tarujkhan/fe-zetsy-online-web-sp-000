@@ -21,8 +21,8 @@ body {
 
 /* Write all remaining styles here */
 .row {
-  width: 30%;
-  display: block;
+  width: 25%;
+  display: inline-block;
 }
 
 .small {
