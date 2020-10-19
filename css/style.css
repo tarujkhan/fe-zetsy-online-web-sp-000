@@ -20,7 +20,7 @@ body {
 }
 
 /* Write all remaining styles here */
-.column {
+.row {
   width: 30%;
   display: inline-block;
 }
